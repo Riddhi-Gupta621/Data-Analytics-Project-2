@@ -54,9 +54,9 @@ The aim was to uncover sales trends, regional performance, product profitability
 ### 📑 Project Files
 
 - Global Superstore_raw and final_superstore → Raw and cleaned datasets.
-- python_scripts → Python EDA, cleaning scripts and visualizations.
-- Tableau-dashboard-superstore → Tableau Dashboard.
-- Analysis Report → Project documentation .
+- Data_cleaning_and_exploration.ipynb → Python EDA, cleaning scripts and visualizations.
+- Tableau dashboard superstore.twb → Tableau Dashboard.
+- Sales and Returns Analysis Report.docx → Project documentation .
 
 ### 🏆 Conclusion
 
